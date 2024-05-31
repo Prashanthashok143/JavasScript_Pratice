@@ -1,1 +1,2 @@
-Praticing Git
+Praticing Git;
+It will help us;
