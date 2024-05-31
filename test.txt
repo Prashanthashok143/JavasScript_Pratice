@@ -1,2 +1,3 @@
 Praticing Git;
 It will help us;
+learned about init,add,status,commit,remote origin,set up upsterema (-u),push
